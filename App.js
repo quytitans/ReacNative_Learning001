@@ -25,7 +25,6 @@ export default function App() {
           }}
           alwaysBounceVertical={false} />
       </View>
-
     </View>
   );
 }
